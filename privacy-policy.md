@@ -5,9 +5,9 @@
 
 # Política de Privacidad
 
-**Actualizado: 29 de julio de 2025**
+**Actualizado: 08 de agosto de 2025**
 
-**Top100Pods** respeta tu privacidad. **No recopilamos**, **almacenamos** ni **compartimos** tus datos personales con terceros. 
+**UnoPod** respeta tu privacidad. **No recopilamos**, **almacenamos** ni **compartimos** tus datos personales con terceros. 
 A continuación se describe qué información procesa la aplicación y cómo puedes controlar su uso.
 
 ## 1. Qué datos se procesan
@@ -46,9 +46,9 @@ Si tienes **preguntas sobre privacidad**, puedes contactar con el autor **por em
 
 # Privacy Policy
 
-**Updated: July 29, 2025**
+**Updated: August 08, 2025**
 
-**Top100Pods** respects your privacy. We **do not collect**, **store**, or **share** your personal data with third parties. 
+**UnoPod** respects your privacy. We **do not collect**, **store**, or **share** your personal data with third parties. 
 Below is a description of the information the app processes and how you can control its use.
 
 ## 1. What data is processed
@@ -63,7 +63,7 @@ The app **does not use its own backend**.
 
 ## 2. Data sources
 We use official **Apple Podcasts APIs and RSS feeds**, in compliance with their policies and attribution requirements.
-The app displays **Apple Podcast icons and links** in accordance with Apple’s terms of use.
+The app displays **Apple Podcast badges and links** in accordance with Apple’s terms of use.
 
 ## 3. Permissions
 The app may request access to your location **once at first launch** to suggest a local list of podcasts.
@@ -85,9 +85,9 @@ If you have **questions about privacy**, you can contact the author **via email 
 
 # Политика конфиденциальности
 
-**Обновлено: 29 июля 2025 г.**  
+**Обновлено: 08 августа 2025 г.**  
 
-**Top100Pods** уважает вашу конфиденциальность. Мы **не собираем**, **не храним** и **не передаём** ваши персональные данные третьим лицам. 
+**UnoPod** уважает вашу конфиденциальность. Мы **не собираем**, **не храним** и **не передаём** ваши персональные данные третьим лицам. 
 Ниже описано, какую информацию приложение обрабатывает и как вы можете контролировать её использование.
 
 ## 1. Какие данные обрабатываются
