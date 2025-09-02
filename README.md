@@ -1,4 +1,4 @@
-# UnoPod: Podcasts
+# UnoPod: podcasts
 
 Aplicación para escuchar podcasts, disponible en [Google Play Store](https://play.google.com/store/apps/details?id=com.andreitrunkin.unopod).
 
