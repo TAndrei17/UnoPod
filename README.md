@@ -1,5 +1,5 @@
-- [English Version](#english-version)  
-- [Русская версия](#русская-версия)
+- [English Version](#unopod-podcasts-en)  
+- [Русская версия](#unopod-podcasts-ru)
 
 # UnoPod: podcasts
 
@@ -14,7 +14,7 @@ Busca y reproduce miles de podcasts de todo el mundo directamente en tu disposit
 - Tus datos se almacenan solo en tu dispositivo, sin envío a terceros.  
 
 ## Por qué elegir UnoPod
-- App ligera, rápida y sin publicidad.  
+- App ligera y sin publicidad.
 
 📥 **Descarga UnoPod** y disfruta de tus podcasts favoritos donde quieras:
 
@@ -22,11 +22,9 @@ Busca y reproduce miles de podcasts de todo el mundo directamente en tu disposit
 
 ➡️ [Pruébalo en el navegador](https://unopod.expo.app/home)
 
+___
 
-
-# English Version
-
-UnoPod: podcasts
+# UnoPod: podcasts (EN)
 
 Application to listen to podcasts, available on [Google Play Store](https://play.google.com/store/apps/details?id=com.andreitrunkin.unopod).
 
@@ -39,7 +37,7 @@ Search and play thousands of podcasts from all over the world directly on your d
 - Your data is stored only on your device, without sending to third parties.  
 
 ## Why Choose UnoPod
-- Lightweight, fast, and ad-free app.  
+- Lightweight and ad-free app.  
 
 📥 **Download UnoPod** and enjoy your favorite podcasts anywhere:
 
@@ -47,11 +45,9 @@ Search and play thousands of podcasts from all over the world directly on your d
 
 ➡️ [Try it in the browser](https://unopod.expo.app/home)
 
+___
 
-
-# Русская версия
-
-UnoPod: podcasts
+# UnoPod: podcasts (RU)
 
 Приложение для прослушивания подкастов, доступное в [Google Play Store](https://play.google.com/store/apps/details?id=com.andreitrunkin.unopod).
 
