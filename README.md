@@ -15,7 +15,8 @@ Busca y reproduce miles de podcasts de todo el mundo directamente en tu disposit
 
 ---
 
-📥 **Descarga UnoPod** y disfruta de tus podcasts favoritos donde quieras::  
+📥 **Descarga UnoPod** y disfruta de tus podcasts favoritos donde quieras:
+
 ➡️ [Google Play Store](https://play.google.com/store/apps/details?id=com.andreitrunkin.unopod)
 
 ➡️ [Pruébalo en el navegador](https://unopod.expo.app/home)
